@@ -26,9 +26,7 @@ createRoot(document.getElementById('root')).render(
     
     </Routes>
   </Provider>
-  {/* <GoogleOAuthProvider clientId = "852903178128-h5gsqq1kkhcsjdqvu6bin2gj84s2m78v.apps.googleusercontent.com">
-    <App />
-  </GoogleOAuthProvider> */}
+
   </StrictMode>
   </BrowserRouter>
   ,

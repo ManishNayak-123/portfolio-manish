@@ -73,18 +73,12 @@
 
 
 // Search bar using api
-//api key ->AIzaSyB6MpFNFFviZptK5dDqP6vjnEw7Ui83bQA
-//373176149958-c4dlr7lr8g749o2nbjnue7h85mut5mk2.apps.googleusercontent.com
-//c2527c150f6c34bb8
+
 
 // import React, { useState, useEffect } from 'react';
 
 // Replace these with your actual keys (Keep them in a .env file for security!)
-// const API_KEY = "AIzaSyB6MpFNFFviZptK5dDqP6vjnEw7Ui83bQA";
-// const SEARCH_ENGINE_ID = "c2527c150f6c34bb8";
 
-// const API_KEY = "AIzaSyXXXX";
-// const SEARCH_ENGINE_ID = "1234567890abcdef";
 // function Search() {
 //     const [searchTerms, setSearchTerms] = useState('');
 //     const [results, setResults] = useState([]);
