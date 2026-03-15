@@ -10,8 +10,6 @@ import { store } from './practice react js/Redux toolKit in react/Redux.jsx';
 
 // import { GoogleOAuthProvider } from '@react-oauth/google';
 import { BrowserRouter , Route, Routes } from 'react-router'
-import Home from '../new project for portfolio/Home.jsx';
-import About from '../new project for portfolio/About.jsx';
 createRoot(document.getElementById('root')).render(
 
   <BrowserRouter>
@@ -19,12 +17,7 @@ createRoot(document.getElementById('root')).render(
 
   <Provider store={store}>
     <App />
-    <Routes>
-   
     
-    
-    
-    </Routes>
   </Provider>
 
   </StrictMode>

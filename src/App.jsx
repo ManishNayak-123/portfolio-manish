@@ -113,7 +113,7 @@ function App(){
               {/* <Project /> */}
               {/* <Portfolio /> */}
               <Routes>
-               <Route path = "/" element = {<Home /> } />
+               <Route  path = "/" element = {<Home /> } />
              <Route path = "/about" element = {<About />} />
              <Route path = "/skills" element = {<Skills />} />
              <Route path = "/project" element  = {<Project />} />
