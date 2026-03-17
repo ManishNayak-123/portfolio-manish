@@ -196,7 +196,7 @@ function Home() {
           </p>
 
           {/* for mobile size */}
-          <p className="text-[13px] animate-fadeUp md:text-xl font-semibold block md:hidden  text-gray-300 animate-marquee">
+          <p className="text-[13px]  md:text-xl font-semibold block md:hidden  text-gray-300 animate-marquee">
             Welcome to the Manish Kumar Nayak portfolio
           </p>
         </div>
