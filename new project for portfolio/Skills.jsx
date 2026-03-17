@@ -559,9 +559,8 @@ function Skills() {
     
           </div>
         </center>
-      </div>
-       <footer className="bg-zinc-900">
-          <div className=" mt-[-80px] md:mt-[-80px] p-3 overflow-hidden  md:p-5 rounded-lg text-center bg-indigo-600">
+           <footer className="bg-zinc-900">
+          <div className=" mt-[-80px] md:mt-[-40px] p-3 overflow-hidden  md:p-5 rounded-lg text-center bg-indigo-600">
           {/* for laptop size */}
           <p className=" text-xl font-semibold hidden md:block text-gray-300 animate-marquee">
             Welcome to the Manish Kumar Nayak portfolio || Welcome to the Manish
@@ -574,6 +573,8 @@ function Skills() {
           </p>
           </div>
           </footer>
+      </div>
+    
       {/* screen for mobile */}
       <div className="max-w-2xl mx-auto p-10 bg-zinc-900 h-full flex-col  md:hidden">
 

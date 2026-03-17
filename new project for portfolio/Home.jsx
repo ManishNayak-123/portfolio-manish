@@ -86,12 +86,12 @@ function Home() {
                 <h1 className="text-[12px] md:text-2xl text-gray-300 font-bold animate-fadeUp">
                   Hi i am
                 </h1>
-                <h1 className="text-[13px]  mt-2 font-bold md:text-3xl break-words text-gray-300 animate-fadeUp">
+                <h1 className="text-[13px]  mt-2 font-bold md:text-3xl  text-gray-300 animate-fadeUp">
                   Manish Kumar Nayak
                 </h1>
                 <h1
-                  className="text-[15px] w-auto mt-7 mx-auto sm:text-3xl  md:text-6xl break-words 
-                     md:break-words text-indigo-600 font-bold animate-fadeUp"
+                  className="text-[15px] w-auto mt-7 mx-auto sm:text-3xl  md:text-6xl 
+                      text-indigo-600 font-bold animate-fadeUp"
                 >
                   A full stack Java Developer
                 </h1>
@@ -190,7 +190,7 @@ function Home() {
 
         <div className=" mt-[100px] md:mt-[-40px] p-3 overflow-hidden  md:p-5 rounded-lg text-center bg-indigo-600">
           {/* for laptop size */}
-          <p className=" text-xl font-semibold hidden md:block text-gray-300 animate-marquee animate-fadeUp">
+          <p className=" text-xl font-semibold hidden md:block text-gray-300 animate-marquee ">
             Welcome to the Manish Kumar Nayak portfolio || Welcome to the Manish
             Kumar Nayak portfolio
           </p>
