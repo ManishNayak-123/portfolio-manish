@@ -107,13 +107,13 @@ function Home() {
                 </div>
                 <div className="flex md:hidden space-x-2 mt-[-255px]">
                   <a href="https://github.com/ManishNayak-123">
-                    <img className=" md:h-20 md:w-20 h-8 w-8  border-2 hover:border-gray-300 animate-fadeUp" src={github} />
+                    <img className=" md:h-20 md:w-20 h-8 w-8 border-transparent border-4 hover:border-indigo-800 animate-fadeUp" src={github} />
                   </a>
                   <a href="https://www.linkedin.com/in/manish-kumar-522934273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-                    <img className=" md:h-20 md:w-20 h-8 w-8 border-2 hover:border-gray-300 animate-fadeUp" src={linkedin} />
+                    <img className=" md:h-20 md:w-20 h-8 w-8 border-4 border-transparent hover:border-indigo-800 animate-fadeUp" src={linkedin} />
                   </a>
                   <a href="https://www.facebook.com/share/1DnNzaxdmR/?mibextid=qi2Omg">
-                    <img className=" md:h-20 md:w-20 h-8 w-8 border-2 hover:border-gray-300 animate-fadeUp" src={facebook} />
+                    <img className=" md:h-20 md:w-20 h-8 w-8 border-4 border-transparent hover:border-indigo-800 animate-fadeUp" src={facebook} />
                   </a>
                 </div>
                 <div className="mt-3 md:hidden space-x-5">
