@@ -44,7 +44,7 @@ function Project() {
                   ref={scrollRef}
                   className="flex gap-6 overflow-x-hidden scroll-smooth px-10 md:px-20"
                 >
-                  <div className="min-w-[160px] animate-fadeUp  md:min-w-[300px]  lg:min-w-[350px] h-[350px] bg-indigo-800 border-4 border-indigo-700 rounded-xl flex items-center justify-center">
+                  <div className="min-w-[180px] animate-fadeUp  md:min-w-[300px]  lg:min-w-[350px] h-[350px] bg-indigo-800 border-4 border-indigo-700 rounded-xl flex items-center justify-center">
                     <a href="https://manishnayak-123.github.io/klc-repo/">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -67,7 +67,7 @@ function Project() {
                     </a>
                   </div>
 
-                  <div className="min-w-[160px] animate-fadeUp  md:min-w-[300px]  lg:min-w-[350px] h-[350px] bg-indigo-800 border-4 border-indigo-700  rounded-xl flex items-center justify-center">
+                  <div className="min-w-[180px] animate-fadeUp  md:min-w-[300px]  lg:min-w-[350px] h-[350px] bg-indigo-800 border-4 border-indigo-700  rounded-xl flex items-center justify-center">
                     <a href="https://manishnayak-123.github.io/responsive-game/">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -88,7 +88,7 @@ function Project() {
                     </a>
                   </div>
 
-                  <div className="min-w-[160px] animate-fadeUp  md:min-w-[300px]  lg:min-w-[350px] h-[350px]  bg-indigo-800 border-4 border-indigo-700  rounded-xl flex items-center justify-center">
+                  <div className="min-w-[180px] animate-fadeUp  md:min-w-[300px]  lg:min-w-[350px] h-[350px]  bg-indigo-800 border-4 border-indigo-700  rounded-xl flex items-center justify-center">
                     <a href="https://manishnayak-123.github.io/currency-converter/">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -122,7 +122,7 @@ function Project() {
                     </a>
                   </div>
 
-                  <div className="min-w-[160px] animate-fadeUp  md:min-w-[300px] lg:min-w-[350px] h-[350px]  bg-indigo-800 border-4 border-indigo-700  rounded-xl flex items-center justify-center">
+                  <div className="min-w-[180px] animate-fadeUp  md:min-w-[300px] lg:min-w-[350px] h-[350px]  bg-indigo-800 border-4 border-indigo-700  rounded-xl flex items-center justify-center">
                     <a href="https://manishnayak-123.github.io/srgc-project/">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -140,7 +140,7 @@ function Project() {
                     </a>
                   </div>
 
-                  <div className="min-w-[160px] animate-fadeUp  md:min-w-[300px] lg:min-w-[350px] h-[350px]  bg-indigo-800 border-4 border-indigo-700  rounded-xl flex items-center justify-center">
+                  <div className="min-w-[180px] animate-fadeUp  md:min-w-[300px] lg:min-w-[350px] h-[350px]  bg-indigo-800 border-4 border-indigo-700  rounded-xl flex items-center justify-center">
                     <a href="http://manishnayak-123.github.io/online-job-portal/">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
